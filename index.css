@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 400px;
+  display: block;
+}
+.firstbook {
+  margin-bottom: 40px;
+}
+a {
+  color: black;
+}
+p {
+  font-size: 24px;
+  cursor: pointer;
+}
